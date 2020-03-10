@@ -1,0 +1,13 @@
+#news h2 {
+  height: 2em;
+}
+
+.center {
+  width: 1000px;
+  margin: auto;
+}
+
+.center img {
+  border-radius: 20px;
+}
+/*# sourceMappingURL=style.css.map */
